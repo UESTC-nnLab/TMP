@@ -1,7 +1,7 @@
-# TasaNet: temporal attention and spatial auxiliary network for moving Infrared dim and small target detection
+# TMP: Temporal Motion Perception with spatial auxiliary enhancement for moving Infrared dim-small target detection
 
 ## Model
-|![TasaNet](./img/model.jpg)|
+|![TMP](./img/model.jpg)|
 |:--:|
 |*TasaNet*|
 
