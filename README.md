@@ -3,7 +3,7 @@
 ## Model
 |![TMP](./img/model.jpg)|
 |:--:|
-|*TasaNet*|
+|*TMP*|
 
 ## PR results on the DAUB and IRDST datasets
 
